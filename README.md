@@ -106,7 +106,9 @@ IDEA12 开始自带了 Source Code Pro, Adobe 家的开源等宽字体,也很舒
 * 显示多列/行文件? tag 上右键选择 Split vertically / Split horizontally
 * 全屏模式? 'View>Enter full screen'
 * 注释在行首而不是紧接着代码? Code Style > Java > Comment Code > Line comment at first column
-* Project侧边里不显示文件夹？ [因为没有 Module ](http://stackoverflow.com/questions/1147336/how-to-get-intellij-idea-to-display-directories)
+* Project侧边里不显示文件夹？ [因为没有 Module ](http://stackoverflow.com/questions/1147336/how-to-get-intellij-idea-to-display-directories)    
+* Debug设置断点却无法进入？目前发现两种情况：1、请检查你debug使用的端口有没有被占用。([检查方法](http://126.am/iHz6a0))2、在更改了类里面的代码之后，没有make（IntelliJ IDEA不会自动帮你编译，需要make（快捷键Ctrl+F9）  
+
 
 
 ##教程
